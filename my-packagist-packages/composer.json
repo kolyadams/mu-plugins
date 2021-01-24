@@ -1,0 +1,11 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
+    },
+    "autoload": {
+        "files": [
+            "includes/DadataApi.php",
+            "includes/CdekApi.php"
+        ]
+    }
+}
